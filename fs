@@ -9,6 +9,3 @@ crohasitdownload.xyz
 crohasit.net.w3use.com
 crohasit.website
 crohasits.xyz
-
-! Tests.
-google.com
